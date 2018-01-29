@@ -1,0 +1,35 @@
+{
+  "Invalid arguments.": "Invalid arguments.",
+  "You are not allowed to use this command.": "You are not allowed to use this command.",
+  "Please join a channel first.": "Please join a channel first.",
+  "Please join the current music channel.": "Please join the current music channel.",
+  "No songs found.": "No songs found.",
+  "Multiple songs found, select one with `>select [number]`.": "Multiple songs found, select one with `>select [number]`.",
+  "The music has been stopped.": "The music has been stopped.",
+  "The music has been paused, you can resume it using `>resume`.": "The music has been paused, you can resume it using `>resume`.",
+  "The music has been resumed.": "The music has been resumed.",
+  "The current song has been skipped.": "The current song has been skipped.",
+  "The queue is empty.": "The queue is empty.",
+  "There is no music.": "There is no music.",
+  "Search for a song first.": "Search for a song first.",
+  "Invalid selection.": "Invalid selection.",
+  "The command prefix is set to **\"%s\"**.": "The command prefix is set to **\"%s\"**.",
+  "Language has been set to **\"%s\"**.": "Language has been set to **\"%s\"**.",
+  "**\"%s\"** is not a valid language, available languages: **%s**.": "**\"%s\"** is not a valid language, available languages: **%s**.",
+  "Your song will play after `%s`.": "Your song will play after `%s`.",
+  "Your song has been skipped.": "Your song has been skipped.",
+  "You have voted to skip the current song (%s).": "You have voted to skip the current song (%s).",
+  "The song has been skipped.": "The song has been skipped.",
+  "You cannot vote to skip the song twice.": "You cannot vote to skip the song twice.",
+
+  "Current Song": "Current Song",
+  "Now Playing": "Now Playing",
+  "Up Next": "Up Next",
+  "Queue": "Queue",
+  "songs in queue | total length": {
+    "one": "%d song in queue | %s total length",
+    "other": "%d songs in queue | %s total length"
+  },
+  "Requested by": "Requested by",
+  "Unknown": "Unknown"
+}
